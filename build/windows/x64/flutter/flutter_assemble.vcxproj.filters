@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\project\Flutter\bmi_calculater\build\windows\x64\CMakeFiles\62716dff5c9208a0df96b3c42f0234c8\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\project\Flutter\bmi_calculater\build\windows\x64\CMakeFiles\7b16c7eee9df6bca1e716600b5d002d2\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\project\Flutter\bmi_calculater\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\project\Flutter\bmi_calculater\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D65A4795-2888-3C25-9D34-A5CFA6012FD8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

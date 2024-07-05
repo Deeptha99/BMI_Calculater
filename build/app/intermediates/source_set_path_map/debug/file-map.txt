@@ -1,0 +1,12 @@
+com.example.bmi_calculater.app-jetified-annotation-experimental-1.1.0-0 C:\Users\deept\.gradle\caches\transforms-3\0961d9728f7ac2e169493d3819ac27b7\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.bmi_calculater.app-jetified-window-1.0.0-beta04-1 C:\Users\deept\.gradle\caches\transforms-3\22061b86dd6bb750cfb097dee39ba039\transformed\jetified-window-1.0.0-beta04\res
+com.example.bmi_calculater.app-core-1.6.0-2 C:\Users\deept\.gradle\caches\transforms-3\47b2173aca808df2d42df6410cb709c0\transformed\core-1.6.0\res
+com.example.bmi_calculater.app-jetified-window-java-1.0.0-beta04-3 C:\Users\deept\.gradle\caches\transforms-3\5618cc6331c51a3eea7db817380fe1e0\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.bmi_calculater.app-debug-4 D:\project\Flutter\bmi_calculater\android\app\src\debug\res
+com.example.bmi_calculater.app-main-5 D:\project\Flutter\bmi_calculater\android\app\src\main\res
+com.example.bmi_calculater.app-pngs-6 D:\project\Flutter\bmi_calculater\build\app\generated\res\pngs\debug
+com.example.bmi_calculater.app-resValues-7 D:\project\Flutter\bmi_calculater\build\app\generated\res\resValues\debug
+com.example.bmi_calculater.app-rs-8 D:\project\Flutter\bmi_calculater\build\app\generated\res\rs\debug
+com.example.bmi_calculater.app-mergeDebugResources-9 D:\project\Flutter\bmi_calculater\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bmi_calculater.app-mergeDebugResources-10 D:\project\Flutter\bmi_calculater\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bmi_calculater.app-merged_res-11 D:\project\Flutter\bmi_calculater\build\app\intermediates\merged_res\debug
