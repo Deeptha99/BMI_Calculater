@@ -1,97 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BMI Calculator</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+<h1 align="center">BMI Calculater</h1>
+<h3 align="center">Hi 👋, I'm Deeptha Ranaweera.This is my first Flutter project</h3>
+<img align="right" alt="coding" width="500" src="Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif">
 
-        .container {
-            background-color: white;
-            padding: 20px 40px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
 
-        h1 {
-            margin-bottom: 20px;
-            color: #333;
-        }
-
-        .input-group {
-            margin-bottom: 15px;
-        }
-
-        label {
-            display: block;
-            margin-bottom: 5px;
-            color: #555;
-        }
-
-        input {
-            width: calc(100% - 22px);
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-
-        button {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        .result {
-            margin-top: 20px;
-            font-size: 20px;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>BMI Calculator</h1>
-        <div class="input-group">
-            <label for="height">Height (cm):</label>
-            <input type="number" id="height" placeholder="Enter your height">
-        </div>
-        <div class="input-group">
-            <label for="weight">Weight (kg):</label>
-            <input type="number" id="weight" placeholder="Enter your weight">
-        </div>
-        <button onclick="calculateBMI()">Calculate</button>
-        <div id="result" class="result"></div>
-    </div>
-
-    <script>
-        function calculateBMI() {
-            const height = document.getElementById('height').value / 100;
-            const weight = document.getElementById('weight').value;
-            const bmi = weight / (height * height);
-            document.getElementById('result').innerText = `Your BMI is ${bmi.toFixed(2)}`;
-        }
-    </script>
-</body>
-</html>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/deeptha-ranaweera-98b026203" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
+  </a> 
+</p>
 
 
+- 📫 How to reach me **deeptharanaweera26@gmail.com**
 
-![download (3)](https://github.com/Deeptha99/BMI_Calculater/assets/118300866/9db03b1f-e2e1-4dda-95a4-cd6ee0861e7e)
+- 👨‍💻 All of my projects are available at [https://github.com/Deeptha99?tab=repositories](https://github.com/Deeptha99?tab=repositories)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deeptha___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deeptha___" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deeptha-ranaweera-98b026203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
+<a href="https://www.facebook.com/deeptha.ranaweera?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
+<a href="https://instagram.com/deeptha_ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deeptha_ranaweera" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@deeptharanaweera6690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
+<a href="https://discord.gg/Deeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deeptha" height="30" width="40" /></a>
+</p>
