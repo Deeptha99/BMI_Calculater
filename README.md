@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm Deeptha Ranaweera.This is my first Flutter project</h3>
 <img align="right" alt="coding" width="500" src="Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptharanaweera&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/deeptha-ranaweera-98b026203" target="_blank">
